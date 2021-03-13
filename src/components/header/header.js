@@ -19,8 +19,8 @@ class Header extends React.Component {
 					<div className="header__mode">
 						<strong className="mode-title">Dark Mode</strong>
 						<button className="toogle" id="toogle" onClick={this.ToogleMode.bind(this)}>
-							<span><i class="fas fa-sun"></i></span>
-							<span><i class="fas fa-moon"></i></span>
+							<span><i className="fas fa-sun"></i></span>
+							<span><i className="fas fa-moon"></i></span>
 						</button>
 					</div>
 				</div>

@@ -17,7 +17,6 @@
     /* transition: background-color 0.3s; */
     transition: all .3s ease;
     background-color: var(--bgfollowers);
-    cursor: pointer;
 }
 
 .content .content__followers .followers:hover{
@@ -164,7 +163,6 @@ i.fas.fa-caret-down{
 }
 .today-card:hover{
     background-color: #333A57;
-    cursor: pointer;
 }
 .today-card .card{
     /* width: 100%;
